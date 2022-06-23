@@ -1,0 +1,15 @@
+{
+  "name": "Chiliz Deneme",
+  "description": "In NON FUNGIBLE we trust.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRgRq1fpEEPSS99gxE5mtRJgCdtsWCoJ21LBZmq3y7KY6",
+  "attributes": [
+    {
+      "trait_type": "Chz",
+      "value": "Supporter Type"
+    },
+    {
+      "trait_type": "Socios",
+      "value": "Viewed"
+    }
+  ]
+}
